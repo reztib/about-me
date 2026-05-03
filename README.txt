@@ -1,4 +1,3 @@
-```txt
 about-me
 
 Thou shalt not make a machine in the likeness of a human mind
@@ -39,4 +38,3 @@ interested in working with / on:
 - Perl,
 
 I don't have twitter, linkedin or some other god-forsaken app, so please don't ask. thanks for reading this far.
-```
