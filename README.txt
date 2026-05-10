@@ -13,7 +13,7 @@ like:
 
 don't like: 
 - Python (I don't like a language that runs on whitespaces (plus it's C under the hood anyway))
-- most scripting languages in general (Perl seems cool though)
+- most scripting languages in general (Perl seems cool though, Lua too (I could use it for LuaTex)
 - web development (you can't use most websites these days properly)
 - artificial intelligence (I could write a whole manifesto on why it's bad and this page has been flooded with ai slop since it's genesis. This is the downfall of western civilisation and I hope the ai bubble bursts just like the dotcom bubble burst back then. the way it's integrated into every website and service makes me wanna commit toaster bath. "give copilot something to work in the background and it creates a pull request when it's done", "fleet management with claude, gpt-5.2 and some other slop factory". no wonder windows 11 is causing ssd failures if every single loc is vibe-coded.)
 
@@ -34,7 +34,11 @@ currently working on:
 interested in working with / on:
 - more R (it's so cool),
 - LaTeX,
-- Lua (it's just so mysterious),
+- Lua (mostly for LuaTex)
 - Perl,
+
+ideas:
+- program that calculates the collission resistance for two hashes it's given, but just out of curiosity what working with security libs is like in C or just in general
+- t.b.d.
 
 I don't have twitter, linkedin or some other god-forsaken app, so please don't ask. thanks for reading this far.
