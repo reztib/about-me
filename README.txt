@@ -32,6 +32,8 @@ currently working on:
 - how to play doom (praise be to chocolate doom)
 
 interested in working with / on:
+- shell scripting
+- more system programming
 - more R (it's so cool),
 - LaTeX,
 - Lua (mostly for LuaTex)
@@ -39,6 +41,8 @@ interested in working with / on:
 
 ideas:
 - program that calculates the collission resistance for two hashes it's given, but just out of curiosity what working with security libs is like in C or just in general
+- a little floating thingy that shows what button you pressed on your xbox controller and what direction your stick is pointing
+- a "daemon" that shows what key you pressed on your keyboard
 - t.b.d.
 
 I don't have twitter, linkedin or some other god-forsaken app, so please don't ask. thanks for reading this far.
